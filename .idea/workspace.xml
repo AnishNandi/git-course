@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ccd6722-234d-4dda-9a64-c792348bb739" name="Changes" comment="" />
+    <list default="true" id="0ccd6722-234d-4dda-9a64-c792348bb739" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/adminService.txt" beforeDir="false" afterPath="$PROJECT_DIR$/adminService.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,9 +18,9 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/adminService.txt" root0="SKIP_HIGHLIGHTING" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="3BJQmTEEobq3rQYzWA5tJIwhThh" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -28,7 +30,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "feature2",
+    "git-widget-placeholder": "feature3",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/dev-spring-boot/Git Projects/git-course",
     "settings.editor.selected.configurable": "preferences.pluginManager"
@@ -55,5 +57,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>
